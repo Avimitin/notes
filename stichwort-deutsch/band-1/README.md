@@ -53,3 +53,33 @@ Familie 的 ie 组合也要分别发音。
 * th 和 dt ，词尾的 d，都发清辅音 t 
 * ck, ch, c，词尾的 g 都发 k 的音
 * 所有的浊辅音在词尾时都要用清辅音的发音
+
+* Guten Morgen 早上好，限定在 5-10am 使用
+* Guten Tag （白天用）你好
+* Guten Abend 晚上好，6-10pm
+* Gute Nacht(晚安)，注意不是 Guten Nacht。
+
+* How Are You
+  * 对老师或者上级问候说 Wie geht es Ihnen
+  * 对同学朋友说 Wie geht's?
+* I am fine, thank you, and you?
+  * Danke gut. Und Ihnen (尊敬)
+  * Danke gut. Und dir?(一般对朋友)
+  * Auch gut, danke(通用)
+* 在上述的你里，Ihnen 和 dir 都是第三格。
+* 除了回复我很好，还有其他状态：
+  * Sehr gut 非常好
+  * Gut 好
+  * Nicht schletcht 不差
+  * Solala 一般般
+  * Scheletcht 差
+* 正式场合道别： Auf Wiedersehen
+* 普通拜拜： Tschüss / Ciao.
+* 明天见： Bis morgen
+  * 这里的 morgen 要小写 m 表示明天，是时间副词不是名词，而 Morgen 是名词，是早上的意思
+* bis 的意思是“直到”
+* Bis gleich：一会见
+  * gleich 立刻
+* Bis bald：期待不久之后见！
+
+* 所有的复合元音发长音: au, ei, ai, ey, ay, eu, äu
