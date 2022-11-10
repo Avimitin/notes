@@ -83,3 +83,8 @@ Familie 的 ie 组合也要分别发音。
 * Bis bald：期待不久之后见！
 
 * 所有的复合元音发长音: au, ei, ai, ey, ay, eu, äu
+
+* st/sp 在词首或者音节首时，s 发“shi”的音，位于词中部位时，分开发音
+* Wie heißt du 你叫什么
+  * heißen 叫作
+* 德语里 Fenster 窗是中性词，而 Tür 门是阴性词
