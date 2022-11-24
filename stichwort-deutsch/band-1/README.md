@@ -106,3 +106,17 @@ Familie 的 ie 组合也要分别发音。
 * 疑惑代词开头问号结尾的可以升调也可以降调
 * 命令句用降调
 * 选择疑问句先升后降
+
+# Lekton 2
+
+* 在德国有两个法兰克福，一个西部的 Frankfurt am Main (美茵河畔法兰克福)，
+一个东部的 Frankfurt an der Oder (奥德河畔法兰克福)
+* 以 -tion 结尾的单词基本都是名词，且通常都是阴性名词
+* 德语里很多词汇都是复合词，许多词都是由两个到三个简单的词汇组合而成的。
+* Flughafen: Flug = Fly, Hafen = 港口, Flughafen：机场
+* Zollbeamter: Zoll 海关 Beamter 男官员，Zollbeamter：海关官员（男性）
+* Zollbeamtin: Zoll 海关 Beamtin 女官员，Zollbeamtin：海关官员（女性）
+* 通常以 -in 结尾的名词都是形容女性
+* 职业名词里，男性名词通常都是阳性，女性名词通常阴性，对应 der 和 die 的用法要分清
+* Koffer 行李箱是阳性名词
+* den Text 是 der Text 的第四格用法
