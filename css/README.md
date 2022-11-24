@@ -43,3 +43,16 @@ But don't use it when you can avoid it.
 * `p[class^="special"]`          => element has class attribute whose value begin with "special"
 * `p[class$="special"]`          => element has class attribute whose value end with "special"
 * `p[class*="special"]`          => element has class attribute whose value contains anywhere with "special"
+
+### pseudo-class
+
+A pseudo-class is a selector that selects elements that are in specific state.
+It act like it apply a class to some special element.
+
+### pseudo-element
+
+It act like it add a new HTML element into dom.
+
+Avoid inserting text into `::before`, `::after` element, it will increase complexity.
+
+To draw image we can insert empty text by `content: ""` and use `display: block`.
