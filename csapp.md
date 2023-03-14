@@ -1,3 +1,15 @@
+## 2.1
+
+1. Computer use 8 bit(aka 1byte) as the smallest unit of memory.
+2. A machine level program view memory as a very large array of bytes, referred to as `Virtual Memory`
+3. Each byte of that memory is identified by a unique number known as `address`
+4. In binary notation, a byte contain value ranges from `00000000-11111111`, in decimal notation,
+its value ranges from `0-255`, in hexadecimal, its value ranges from `00-FF`.
+5. `Word` indicate the nominal size of pointer data.
+6. The maximum size of the virtual address space can range from `0` to `2^w - 1`. `w` indicate that
+the unit `word` has `w` bits.
+7. Data type `char` represent a single byte, and a pointer like `char *` use the full word size of the program.
+So a pointer in 32-bit program will be 4 bytes and in 64-bit program, its size will be 8 bytes.
 
 # 3
 
